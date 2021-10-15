@@ -1,0 +1,34 @@
+GitLab Tutorials completed on 10/12/21 and 10/13/21
+
+I set up my GitHub account towards the beginning of the semester for our project, around September 3rd, 2021, I believe. 
+
+
+Set Up:
+
+1. Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 1.11 KiB | 1.11 MiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/jpb12d/assignment2.git
+   e157d40..0389f59  master -> master
+
+2. Four commits so far [git log]
+
+3. README.md was last modified 10/14/21 at 22:20:52 [joshuabush$ git log /Users/joshuabush/Documents/GitHub/assignment2/README.md] 
+
+4. First, it makes it more difficult for unstable code to be merged into main code base. Second, one has the opportunity to clean up your future's history before merging into the main branch
+
+5. git log displays a record of commits in a git repository. git status displays the state of the working directory and staging area.
+
+6. git log Vehicle.h 
+
+7. git log --all --grep='file'
+
+8. inheritance: The properties of a class can be inherited and extended by other classes/functions. polymorphism: Variables, functions, objects, etc., existing in multiple forms for easy calling. encapsulation: Implementation details are hidden, reducing complecity and only methods are exposed.
+
+9. For 'IMW', developers will make pulls/pushes to their own public repository. For 'D&LW', developersonly make pulls from central repository
+
+10. Centralizing conflict solutions to a dictator's decision will provide uniformity that could be lost among 100 developers working on a single project.  
